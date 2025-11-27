@@ -1,0 +1,14 @@
+{
+    "name":"movement.cpp",
+    "description":"TModule des mouvements du robot",
+    "keywords":"move",
+    "authors":
+    [
+      {
+        "name": "Mikael Boulay",
+        "maintainer": true
+      }
+  
+    ],
+    "version": "2.1.0"
+  }
