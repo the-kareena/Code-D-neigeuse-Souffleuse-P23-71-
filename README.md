@@ -1,7 +1,6 @@
-# Code-D-neigeuse-Souffleuse-P23-71-
+# Projet Déneigeuse-Souffleuse FDN-P23-71
 Pour le projet PIRUS, l’équipe P-23 en génie robotique, de l'université de Sherbrooke, a créé un prototype d’un robot étant capable de déneiger plusieurs entrées des maisons de façon autonome.
 
-# Projet Dénageur – Code Final du Robot
 **Équipe : P23**  
 **Auteurs : Karina Ait Ouazzou, Étienne Vibert**  
 **Date : 2025-11-06**
